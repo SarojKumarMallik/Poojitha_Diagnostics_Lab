@@ -363,7 +363,10 @@
     padding: 0 10px;
     width: 22%;
 }
-    
+  .logo img{
+	height: 80px;
+	width: 80px;
+  }  
     
 .container-p {
 	padding: 0 30px;
@@ -659,7 +662,10 @@
     padding: 0 10px;
     width: 52%;
 }
-    
+.logo img{
+	height: 80px;
+	width: 80px;
+  }  
 	.slider-price {
     display: none;
 }
