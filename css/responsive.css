@@ -39,6 +39,10 @@
     .single-project .project-info {
     right: 10px;
 }
+.logo img{
+	height: 110px;
+	width: 130px;
+}
 }
 
 
@@ -97,6 +101,7 @@
 .call-area h2,.newslater-area h2 {
     font-size: 26px;
 }
+
   .call-area .number {
     font-size: 40px;
 }
@@ -362,6 +367,8 @@
     line-height: inherit;
     padding: 0 10px;
     width: 22%;
+	position: relative;
+	top: 12px;
 }
   .logo img{
 	height: 80px;
@@ -666,6 +673,10 @@
 	height: 80px;
 	width: 80px;
   }  
+  .logo{
+	position: relative;
+	top: 12px;
+  }
 	.slider-price {
     display: none;
 }
@@ -1055,7 +1066,7 @@ right: 11%;
 }
     .mean-container a.meanmenu-reveal {
     border: 1px solid #1c19a0;
-    color: #1c19a0;    
+    color: #1c19a0; 
 }
     .mean-container a.meanmenu-reveal span {
     background: #1c19a0 none repeat scroll 0 0;
@@ -1323,6 +1334,10 @@ right: 11%;
 }
 .f-insta ul li {
 	width: 28%;
+}
+.logo{
+	position: relative;
+	top: 12px;
 }
 .f-insta ul li a img {
 	width: 100%;
