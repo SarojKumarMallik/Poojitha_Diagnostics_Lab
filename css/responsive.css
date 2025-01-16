@@ -1,5 +1,5 @@
 /* Normal desktop :1200px. */
-@media (min-width: 1200px) and (max-width: 1500px) {
+@media (min-width: 1200px) {
     
 .container-p {
 	padding: 0 30px;
