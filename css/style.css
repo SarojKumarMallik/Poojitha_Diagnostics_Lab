@@ -246,7 +246,7 @@ margin-left: 0px;
 }
 /* scrollUp */
 #scrollUp {
-	background: #1E0B9B;
+	background: #9b450b;
 	height: 45px;
 	width: 45px;
 	right: 50px;
@@ -260,7 +260,7 @@ margin-left: 0px;
 	transition: .3s;
 }
 #scrollUp:hover {
-	background: #1E0B9B;
+	background: #31db07;
 }
 /* 2. header */
 .header-top {
@@ -408,8 +408,8 @@ border-radius: 50%;
 color: #FFF;
 }
 .top-btn {
-    background: transparent linear-gradient(90deg, #1E0B9B 0%, #07CCEC 100%) 0% 0% no-repeat padding-box;
-    box-shadow: 3px 4px 15px #3FB0CEA6;
+    background: transparent linear-gradient(90deg, #331708 0%, #e44d0d 100%) 0% 0% no-repeat padding-box;
+    box-shadow: 3px 4px 15px #3b545ba6;
     padding: 10px 15px 10px 30px;
     width: 100%;
     float: left;
@@ -430,7 +430,7 @@ color: #FFF;
     text-align: center;
 }
 .top-btn:hover {
-    background: transparent linear-gradient(90deg, #07CCEC 0%, #1E0B9B 100%) 0% 0% no-repeat padding-box;
+    background: transparent linear-gradient(90deg, #e44d0d 0%, #331708 100%) 0% 0% no-repeat padding-box;
     box-shadow: none;
      color: #fff;
 }
@@ -541,7 +541,7 @@ color: #FFF;
 .second-header {
 	border: none;
 	padding-bottom: 9px;
-	background:  transparent linear-gradient(90deg, #1E0B9B 0%, #07CCEC 100%) 0% 0% no-repeat padding-box;
+	background:  transparent linear-gradient(90deg, #ad4a15 0%, #e44d0d 100%) 0% 0% no-repeat padding-box;
 	padding-top: 9px;
     color: #fff;
 }
@@ -701,7 +701,7 @@ color: #FFF;
 	font-size: 16px;
 }
 .breadcrumb > .active {
-	color: #1E0B9B;
+	color: #f33308;
 	font-weight: 500;
 }
 /* 3. slider */
@@ -826,7 +826,7 @@ color: #FFF;
 	margin-bottom: 40px;
 }
 .slider-content h2 span {
-	color: #1e0b9b;
+	color: #179b0b;
 }
 .slider-content p span {
 	display: inline-block;
@@ -896,7 +896,7 @@ color: #FFF;
 	left: auto;
 }
 .slider-active .slick-arrow:hover {
-	box-shadow: 4px 2px 0 0 #1E0B9B;
+	box-shadow: 4px 2px 0 0 #0b9b19;
 }
 .second-slider-content h2 {
 	font-size: 90px;
@@ -918,7 +918,7 @@ color: #FFF;
     margin-left: -50px;
 }
 .btn.ss-btn {
-background: transparent linear-gradient(90deg, #1E0B9B 0%, #07CCEC 100%) 0% 0% no-repeat padding-box;
+background: transparent linear-gradient(90deg, #331708 0%, #e44d0d 100%) 0% 0% no-repeat padding-box;
 box-shadow: 3px 4px 15px #3FB0CEA6;
 padding: 14px 15px 14px 30px;
 width: 176px;
@@ -940,7 +940,7 @@ text-align: left;
     border-radius: 50%;
     text-align: center;
 }
-.btn.ss-btn:hover {background: transparent linear-gradient(90deg, #07CCEC 0%, #1E0B9B 100%) 0% 0% no-repeat padding-box;;
+.btn.ss-btn:hover {background: transparent linear-gradient(90deg, #e44d0d 0%, #331708 100%) 0% 0% no-repeat padding-box;;
 color: #fff;}
 .slider-shape{position: absolute !important;z-index: 9;}
 .ss-one {
@@ -1124,7 +1124,7 @@ margin-right: 15px;
 	font-size: 16px;
 	font-weight: 500;
 	text-transform: uppercase;
-	color: #1E0B9B;
+	color: #e44d0d;
 	letter-spacing: 2px;
 	display: inline-block;
 	margin-bottom: 20px;
@@ -1307,7 +1307,7 @@ border-radius: 10px;
     float: left;
 	width: 100%;
 }
-.second-services-content h5 {
+.section-title h5 {
 	font-weight: 600;
 	transition: .3s;
 	font-family: 'Poppins', sans-serif;
@@ -1712,7 +1712,7 @@ border-radius: 10px;
 	transition: .3s;
 }
 .team-info p{
-    color: #1E0B9B;
+    color: #e44d0d;
 }
 .team-social a {
 color: #1e0b9b;
@@ -1801,7 +1801,7 @@ box-shadow: 3px 4px 15px #EB334973;
 	top: 50px;
 }
 .single-team:hover .team-info h4{
-    color: #1E0B9B;
+    color: #e44d0d;
 }
 .slick-slide {
     outline: none;
@@ -1896,7 +1896,7 @@ border-radius: 10px;
 }
 .count {
 	font-size: 35px;
-	color: #1e0b9b;
+	color: #43e11c;
 	font-family:'Titillium Web', sans-serif;
 	font-weight: 700;
 	margin-bottom: 13px;
@@ -1906,7 +1906,7 @@ border-radius: 10px;
 .counter small {
 	font-size: 35px;
 	font-weight: 700;
-	color: #1e0b9b;
+	color: #43e11c;
 	line-height: 1;
 	position: relative;
 	font-family:'Titillium Web', sans-serif;
@@ -2270,7 +2270,7 @@ padding: 30px;
 	width: 100%;
 	text-align: left;
 	padding-right: 55px;
-    background: transparent linear-gradient(90deg, #1E0B9B 0%, #07CCEC 100%) 0% 0% no-repeat padding-box;
+    background: transparent linear-gradient(90deg, #d56719 0%, #ec5b07 100%) 0% 0% no-repeat padding-box;
     border-radius: 10px;
 }
 .card .collapse.show {
@@ -2396,7 +2396,7 @@ box-shadow: 1px 3px 11px #00000026;
     position: absolute;
     left: 0;
     top: 0;
-    background: transparent linear-gradient(90deg, #1E0B9B 0%, #07CCEC 100%) 0% 0% no-repeat padding-box;
+    background: transparent linear-gradient(90deg, #bb4505 0%, #7af831 100%) 0% 0% no-repeat padding-box;
     opacity: 0.6;
 }
 .blog-content {
@@ -2425,7 +2425,7 @@ box-shadow: 1px 3px 11px #00000026;
 	margin-bottom: 20px;
 	line-height: 1.3;
 }
-.blog-content h4:hover a{color: #1E0B9B;}
+.blog-content h4:hover a{color: #e44d0d;}
 .blog-btn {
     position: absolute;
     bottom: -23px;
@@ -2451,7 +2451,7 @@ box-shadow: 1px 3px 11px #00000026;
 }
 .b-meta i{
     margin-right: 5px;
-    color: #1E0B9B;
+    color: #e44d0d;
 }
 
 
@@ -3387,7 +3387,7 @@ border-radius: 30px;
     height: 35px;
     width: 35px;
 	font-size: 16px;
-	color: #1E0B9B;
+	color: #f33308;
 	margin-right: 15px;
 	display: inline-block;
     background: transparent linear-gradient(90deg, #294DA41F 0%, #43C0D557 100%) 0% 0% no-repeat padding-box;
@@ -3395,7 +3395,7 @@ border-radius: 30px;
 border-radius: 50%;
     text-align: center;
 }
-.footer-social a:hover{color: #fff;background: transparent linear-gradient(90deg, #1E0B9B 0%, #07CCEC 100%) 0% 0% no-repeat padding-box;opacity:1;}
+.footer-social a:hover{color: #fff;background: transparent linear-gradient(90deg, #d47651 0%, #ad4a15 100%) 0% 0% no-repeat padding-box;opacity:1;}
 .f-widget-title h5 {
 	font-size: 20px;
 	margin-bottom: 30px;
@@ -3413,7 +3413,7 @@ border-radius: 50%;
     background: url('../img/bg/circle_right.png') no-repeat;
 }
 .footer-link ul li i {
-    color: #1E0B9B;
+    color: #f33308;
     margin-right: 5px;
 }
 .footer-link ul li a {
@@ -3421,7 +3421,7 @@ border-radius: 50%;
 	font-size: 14px;
 	display: inline-block;
 }
-.footer-link ul li a:hover{padding-left: 5px;color: #1E0B9B;}
+.footer-link ul li a:hover{padding-left: 5px;color: #f33308;}
 .footer-link ul li {
 	margin-bottom: 10px;
     display: flex;
@@ -3441,7 +3441,7 @@ border-radius: 50%;
 	left: 50%;
 	transform: translate(-50%,-50%);
 	font-size: 24px;
-	color: #1E0B9B;
+	/* color: #1E0B9B; */
 	transition: .3s;
 	opacity: 0;
 	z-index: 9;
@@ -3460,20 +3460,20 @@ border-radius: 50%;
 .f-insta ul li:hover a::before{top: 50%;opacity: 1;}
 .f-insta ul li:hover a::after{opacity: .6;}
 .copyright-wrap{
-    background: #D4E4FA;
+    background: #ec3c29; 
 }
 .copyright-text {
 	padding: 20px 0;
 }
 .copyright-text p {
 	margin-bottom: 0;
-	color: #1E0B9B;
+	color: white;
 }
 
 .f-contact i {
     width: 40px;
     height: 40px;
-    background: transparent linear-gradient(90deg, #1E0B9B 0%, #1e0b9b 100%) 0% 0% no-repeat padding-box;
+    background: transparent linear-gradient(90deg, #331708 0%, #e44d0d 100%) 0% 0% no-repeat padding-box;
     line-height: 40px;
     color: #fff !important;
     text-align: center;
@@ -3606,7 +3606,7 @@ text-align: left;
 }
 
 .main-menu .has-sub a:hover{
-	color:#1E0B9B;
+	color:#f33308;
 }
 
 .main-menu .has-sub:hover > ul { display:block; margin-top: 0px;}
@@ -5952,7 +5952,7 @@ p.checkout-coupon input[type="text"] {
     left: 0;
     height: 100%;
     width: 4px;
-    background-color: #dc3545;
+    /* background-color: #179b0b; */
     content: "";
     opacity: 0;
     visibility: hidden;
@@ -6019,7 +6019,7 @@ p.checkout-coupon input[type="text"] {
 	height: 100%;
 	width: 100%;
 	content: "";
-	background: transparent linear-gradient(90deg, #1E0B9B 0%, #07CCEC 100%) 0% 0% no-repeat padding-box;
+	background: transparent linear-gradient(90deg, #f33308 0%, #f33308 100%) 0% 0% no-repeat padding-box;
 	z-index: -1;
 	-webkit-transition: -webkit-transform 0.4s ease;
 	transition: -webkit-transform 0.4s ease;
@@ -6361,7 +6361,7 @@ p.checkout-coupon input[type="text"] {
     top: 0;
     font-size: 14px;
     line-height: 25px;
-    color: #1e0b9b;
+    color: #f33308;
     content: "\f101";
     font-weight: 900;
     font-family: "Font Awesome 5 Pro";
@@ -6713,7 +6713,7 @@ border-radius: 15px;
     border: none;
 }
 .department-area .card-body:hover,.department-area .active{
-    background: transparent linear-gradient(90deg, #1E0B9B 0%, #07CCEC 100%) 0% 0% no-repeat padding-box;
+    background: transparent linear-gradient(90deg, #ad4a15 0%, #ad4a15 100%) 0% 0% no-repeat padding-box;
     color: #fff;
     box-shadow: 3px 4px 15px #3FB0CEA6;
 } 
