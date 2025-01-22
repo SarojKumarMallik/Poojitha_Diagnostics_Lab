@@ -1044,6 +1044,7 @@ text-align: center;
 line-height: 33px;
 border-radius: 50%;
 margin-right: 15px;
+color: #f7050d;
 }
 .about-content li .text{
     padding-top: 5px
@@ -1091,6 +1092,134 @@ margin-right: 15px;
     background: #000;
 }
 .s-about-content p {
+	margin-bottom: 15px;
+}
+.signature-text{font-size: 22px; color: #1e0b9b;font-family:'Titillium Web', sans-serif;font-weight: 600;}
+.circle-right{
+    display: inline-block;
+}
+/* 4. about */
+.s-mission-img img {
+    width: inherit;
+    max-width: inherit;
+    /* margin-left: -330px; */
+	height:480px;
+	width:550px
+}
+.mission-img {
+	/* margin-left: -50px; */
+	/* margin-left: 1000px; */
+}
+.mission-text {
+	position: absolute;
+	bottom: 65px;
+	right: 30px;
+	height: 135px;
+	width: 265px;
+	text-align: center;
+	background: #1E0B9B;
+	box-shadow: 5px 5px 0 0 #1E0B9B;
+}
+.mission-text span {
+	font-size: 24px;
+	color: #fff;
+	font-style: italic;
+	top: 30px;
+	position: relative;
+}
+.mission-title > span {
+	font-size: 14px;
+	font-weight: 500;
+	text-transform: uppercase;
+	color: #fff;
+	background: #1E0B9B;
+	height: 30px;
+	display: inline-block;
+	text-align: center;
+	line-height: 30px;
+	margin-bottom: 30px;
+}
+.mission-title h2 {
+	font-size: 38px;
+    line-height: 1.4;
+    margin-bottom: 35px;
+}
+.mission-title p span {
+	display: inline-block;
+	height: 2px;
+	width: 40px;
+	background: #1E0B9B;
+	margin-right: 20px;
+	position: relative;
+	top: -5px;
+}
+.mission-title p {
+	font-size: 18px;
+	margin-bottom: 0;
+}
+.mission-content p {
+	margin-bottom: 45px;
+}
+.mission-content li {
+    display: flex;
+    margin-bottom: 15px;
+}
+.mission-content li .icon i{
+width: 33px;
+height: 33px;
+background: #294DA414 0% 0% no-repeat padding-box;
+text-align: center;
+line-height: 33px;
+border-radius: 50%;
+margin-right: 15px;
+color: #43e11c;
+}
+.mission-content li .text{
+    padding-top: 5px
+}
+.section-t h2 {
+	font-size: 350px;
+	position: absolute;
+	left: 0;
+	right: 0;
+	text-align: center;
+	z-index: -1;
+	color: #013243;
+	opacity: .05;
+	margin: 0;
+	font-family:'Titillium Web', sans-serif;
+	font-weight: 500;
+	font-style: italic;
+	top: -35px;
+	line-height: 1;
+}
+.second-about {
+	top: 62%;
+	transform: translate(-50%,-50%);
+	left: 74%;
+	right: 0;
+	bottom: 0;
+}
+.second-atitle > span {
+	font-size: 16px;
+	font-weight: 500;
+	text-transform: uppercase;
+	color: #1E0B9B;
+	letter-spacing: 2px;
+	display: inline-block;
+	margin-bottom: 20px;
+	background: transparent;
+    display: inline-block;
+    position: relative;
+}
+.second-title > span::before{
+    width: 50%;
+    content: '';
+    position: relative;
+    height: 100%;
+    background: #000;
+}
+.s-mission-content p {
 	margin-bottom: 15px;
 }
 .signature-text{font-size: 22px; color: #1e0b9b;font-family:'Titillium Web', sans-serif;font-weight: 600;}
