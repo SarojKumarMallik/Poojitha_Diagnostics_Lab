@@ -907,6 +907,12 @@ border-bottom: none;
 .about-img img {
 	width: 100%;
 }
+.s-mission-img img{
+	width: 340px;
+	height: 404px;
+	margin-top: 30px;
+
+}
 
 .about-text span {
 	top: 20px;
