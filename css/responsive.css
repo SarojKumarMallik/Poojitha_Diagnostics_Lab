@@ -117,6 +117,7 @@
 .about-img {
 	margin-left: -105px;
 }
+
 .features-content p {
 	padding: 0;
 }
@@ -204,6 +205,9 @@
 }
 .s-about-img img{
 	height: 650px;
+}
+.s-mission-img{
+	
 }
 .about-p {
 	padding-top: 110px;
@@ -391,6 +395,12 @@
 	margin-left: 0;
 	text-align: center;
 	margin-bottom: 30px;
+}
+.s-mission-img{
+	margin-top: 20px;
+}
+.s-mission-img img{
+	width: 100%;
 }
 .about-content.pl-30 {
 	padding-left: 0;
