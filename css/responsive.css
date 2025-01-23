@@ -911,7 +911,7 @@ border-bottom: none;
 	width: 380px;
 	height: 404px;
 	margin-top: 30px;
-
+	border-radius: 10px;
 }
 
 .about-text span {
