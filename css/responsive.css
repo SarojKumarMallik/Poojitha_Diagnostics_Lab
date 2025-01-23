@@ -399,9 +399,9 @@
 .s-mission-img{
 	margin-top: 20px;
 }
-.s-mission-img img{
+/* .s-mission-img img{
 	width: 90%;
-}
+} */
 .about-content.pl-30 {
 	padding-left: 0;
 	padding-bottom: 4px;
@@ -907,9 +907,7 @@ border-bottom: none;
 .about-img img {
 	width: 100%;
 }
-s-mission-img img{
-	width: 90%;
-}
+
 .about-text span {
 	top: 20px;
 }
