@@ -109,7 +109,7 @@ h1 {
 	font-weight: 500;
 }
 h2 {
-	font-size: 35px;
+	/* font-size: 35px; */
 }
 h3 {
 	font-size: 28px;
@@ -819,7 +819,7 @@ color: #FFF;
 	margin-bottom: 20px;
 }
 .slider-content h2 {
-	font-size: 65px;
+	font-size: 50px;
     font-weight: 700;
 	color: #013243;
 	line-height: 1.1;
@@ -976,7 +976,7 @@ color: #fff;}
     width: inherit;
     max-width: inherit;
     margin-left: -330px;
-	height:600px;
+	height:701px;
 	width:900px
 }
 .about-img {
@@ -1093,6 +1093,7 @@ color: #f7050d;
 }
 .s-about-content p {
 	margin-bottom: 15px;
+	/* font-size: 10PX; */
 }
 .signature-text{font-size: 22px; color: #1e0b9b;font-family:'Titillium Web', sans-serif;font-weight: 600;}
 .circle-right{
@@ -1272,7 +1273,7 @@ color: #43e11c;
     top: 0;
 }
 .section-title h2 {
-	font-size: 46px;
+	font-size: 29px;
 	position: relative;
 }
 .section-title h2::before {
@@ -6757,7 +6758,7 @@ border-radius: 15px;
     color: #fff;
 }
 .department-area .card-body h3{
-    font-size: 24px;
+    font-size: 22px;
     font-weight: 600;
 }
 .department-area .card-body :hover h3,.department-area .card-body a:hover,.department-area .active h3{
