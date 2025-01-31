@@ -985,6 +985,14 @@ color: #fff;}
 	height:701px;
 	width:900px
 }
+.a-img img {
+    width: inherit;
+    max-width: inherit;
+    margin-left: -330px;
+	height:733px;
+	width:900px
+}
+
 .about-img {
 	margin-left: -50px;
 }
